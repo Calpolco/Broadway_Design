@@ -1,4 +1,19 @@
+h1, h2, h3, p, a {
+  font-family: helvetica;
+}
 h1 {
-    color: red;
-
+    font-size: 70px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.Header a {
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.Header {
+    background-image: url(/Users/callumpollard/Documents/Broadway_Design/Resources/the-flatiron-building.png);
+    text-align: center;
+    padding-bottom: 10px;
 }
