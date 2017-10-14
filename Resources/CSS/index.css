@@ -7,6 +7,14 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+h2 {
+    font-size: 23px;
+    font-weight: bold;
+}
+p {
+    font-size: 14px;
+}
+
 .Header a {
     font-size: 18px;
     color: white;
@@ -16,4 +24,29 @@ h1 {
     background-image: url(/Users/callumpollard/Documents/Broadway_Design/Resources/the-flatiron-building.png);
     text-align: center;
     padding-bottom: 10px;
+}
+.Content1 {
+    text-align: center;
+}
+
+.Divider{
+  background-image: url(/Users/callumpollard/Documents/Broadway_Design/Resources/the-flatiron-building.png);
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.content2 {
+    text-align: center;
+}
+.footer{
+        background-color: dimgray;
+}
+.footer p{
+    font-size: 11px;
+    color: white;
+}
+.footer a {
+    font-size: 11px;
+    color: white;
 }
